@@ -1,3 +1,4 @@
+# DISCONTINUED
 # OverlayGo
 A lightweight library on Go that allows you to work with OpenGl with a transparent overlay.
 ![image](https://github.com/MrRoblick/OverlayGo/assets/61147166/ae3ff41f-f400-463e-8c8d-0600128fba3a)
